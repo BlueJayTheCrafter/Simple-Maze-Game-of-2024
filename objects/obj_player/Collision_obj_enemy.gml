@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 // Subtract our health
-health -= 20;
+lives -= 1;
 
 // jump back to starting position
 x = xstart;
