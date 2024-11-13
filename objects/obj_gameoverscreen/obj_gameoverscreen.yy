@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object7",
-  "spriteId": null,
+  "name": "obj_gameoverscreen",
+  "spriteId": {
+    "name": "spr_gameoverscreen",
+    "path": "sprites/spr_gameoverscreen/spr_gameoverscreen.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

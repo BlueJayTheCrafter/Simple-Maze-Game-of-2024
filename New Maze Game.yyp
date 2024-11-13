@@ -8,7 +8,7 @@
     {"id":{"name":"spr_gameoverscreen","path":"sprites/spr_gameoverscreen/spr_gameoverscreen.yy",},"order":6,},
     {"id":{"name":"spr_lock5","path":"sprites/spr_lock5/spr_lock5.yy",},"order":14,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":1,},
-    {"id":{"name":"Object7","path":"objects/Object7/Object7.yy",},"order":6,},
+    {"id":{"name":"obj_gameoverscreen","path":"objects/obj_gameoverscreen/obj_gameoverscreen.yy",},"order":6,},
     {"id":{"name":"obj_key2","path":"objects/obj_key2/obj_key2.yy",},"order":7,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},"order":3,},
